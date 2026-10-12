@@ -8,7 +8,7 @@
         with your real app URL. (Also set LIVE_URL in app.py.)
      ============================================================ -->
 
-### 🔗 Live App: [https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)
+### 🔗 Live App: https://risk-alert-classifiergit-hnsc7zfcgippjfceuuw23e.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
